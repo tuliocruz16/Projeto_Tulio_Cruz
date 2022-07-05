@@ -9,4 +9,8 @@ public class ClasseC {
     public void mc2(){
         System.out.println("mc2");
     }
+
+    public void mC3(){
+        System.out.println("mC3");
+    }
 }
