@@ -9,6 +9,10 @@ public class ClasseD {
     public int mD2(){
         return d2;
     }
+    
+    public void mD4(){
+        System.out.println("mD4");
+    }
 
     public void mD3(){
         System.out.println("mD3");
