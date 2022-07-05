@@ -23,4 +23,8 @@ public class ClasseB {
     public void mB2(){
         System.out.println("mB2");
     }
+
+    public void mB3(){
+        System.out.println("mB3");
+    }
 }
