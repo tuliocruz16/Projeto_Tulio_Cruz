@@ -9,5 +9,9 @@ public class ClasseD {
     public int mD2(){
         return d2;
     }
+    
+    public void mD4(){
+        System.out.println("mD4");
+    }
 
 }
